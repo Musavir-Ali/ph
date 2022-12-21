@@ -1,0 +1,46 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+h1{
+    background-color: grey;
+}
+
+p{
+    padding: 5px; margin: 0px;}
+p.seven{
+    background-color: green;
+}
+p.zero {
+    background-color: rgb(238,62,128);}
+
+p.fourteen {
+        background-color:  #21618C;}
+
+p.thirteen {
+    background-color: #2874A6;}
+    p.ten {
+        background-color:#5DADE2;}
+      p.eleven {
+        background-color: #3498DB ;}
+      p.twelve {
+        background-color: #2E86C1 ;}
+          p.one {
+            background-color: rgb(244,90,139);}
+          p.two {
+            background-color: rgb(243,106,152);}
+          p.three {
+            background-color: rgb(244,123,166);}
+          p.four {
+            background-color: rgb(245,140,178);}
+          p.five {
+            background-color: rgb(246,159,192);}
+          p.six {
+            background-color: rgb(245,176,204);}
+         
+          p.eight {
+            background-color: #AED6F1;}
+            p.nine {
+                background-color:  #85C1E9 ;}
